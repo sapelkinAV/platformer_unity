@@ -13,9 +13,741 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-09T16:59:50.928+03:00
+  lastUpdatedAtString: 2021-05-09T17:00:08.222+03:00
   initializedAtString: 2021-05-09T16:09:09.522+03:00
   log:
+  - commitID: 9ec4cd9d5f182c1c620ac40d85c0d29d01ee41fe
+    mergeA: 
+    mergeB: 
+    authorName: sapelkinAV
+    authorEmail: al.vi.sapelkin@gmail.com
+    commitEmail: al.vi.sapelkin@gmail.com
+    commitName: sapelkinAV
+    summary: add animation
+    description: 
+    timeString: 2021-05-09T17:00:06.000+03:00
+    commitTimeString: 2021-05-09T17:00:06.000+03:00
+    changes:
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/Player.cs
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Player.cs
+      projectPath: Assets/Scripts/Player.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Collab/Cache/Window.yml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/Collab/Cache/Window.yml
+      projectPath: Library/Collab/Cache/Window.yml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      projectPath: Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorOnlyScriptingSettings.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/EditorOnlyScriptingSettings.json
+      projectPath: Library/EditorOnlyScriptingSettings.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ProtocolInstance.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ProtocolInstance.json
+      projectPath: Library/ProtocolInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SceneVisibilityState.asset
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/PsdPlugin.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/PsdPlugin.dll
+      projectPath: Library/ScriptAssemblies/PsdPlugin.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/PsdPlugin.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/PsdPlugin.pdb
+      projectPath: Library/ScriptAssemblies/PsdPlugin.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+      projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+      projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+      projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Mathematics.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.dll
+      projectPath: Library/ScriptAssemblies/Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Mathematics.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Mathematics.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.pdb
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+      projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.UI.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.UI.pdb
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.UI.pdb
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      projectPath: Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      projectPath: Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/sapelkinav/code/games/Platformer/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/CompilationLog.txt
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/PsdPlugin.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/PsdPlugin.dll.hash
+      projectPath: Temp/PsdPlugin.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Animation.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Animation.Runtime.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Common.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Common.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Common.Runtime.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Common.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.IK.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.IK.Editor.dll.hash
+      projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.IK.Runtime.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.IK.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Path.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Path.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.PixelPerfect.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.PixelPerfect.dll.hash
+      projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Sprite.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Sprite.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.2D.Tilemap.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Tilemap.Editor.dll.hash
+      projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.CollabProxy.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.CollabProxy.Editor.dll.hash
+      projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.Mathematics.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Mathematics.Editor.dll.hash
+      projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.Mathematics.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Mathematics.dll.hash
+      projectPath: Temp/Unity.Mathematics.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.Rider.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Rider.Editor.dll.hash
+      projectPath: Temp/Unity.Rider.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.TextMeshPro.Editor.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.TextMeshPro.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.TextMeshPro.dll.hash
+      projectPath: Temp/Unity.TextMeshPro.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.Timeline.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Timeline.Editor.dll.hash
+      projectPath: Temp/Unity.Timeline.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.Timeline.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Timeline.dll.hash
+      projectPath: Temp/Unity.Timeline.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.VSCode.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.VSCode.Editor.dll.hash
+      projectPath: Temp/Unity.VSCode.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Unity.VisualStudio.Editor.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.VisualStudio.Editor.dll.hash
+      projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.TestRunner.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEditor.TestRunner.dll.hash
+      projectPath: Temp/UnityEditor.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityEditor.UI.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEditor.UI.dll.hash
+      projectPath: Temp/UnityEditor.UI.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.TestRunner.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEngine.TestRunner.dll.hash
+      projectPath: Temp/UnityEngine.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityEngine.UI.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEngine.UI.dll.hash
+      projectPath: Temp/UnityEngine.UI.dll.hash
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9020bc2af7b178368371d853d927b3865b5592a1
     mergeA: 
     mergeB: 

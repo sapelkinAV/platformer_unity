@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Fly.cs" />
      <None Include="Assets\Art\license.txt" />
      <None Include="Assets\Art\Player\p1_spritesheet.txt" />
      <None Include="Assets\Art\Player\p3_spritesheet.txt" />

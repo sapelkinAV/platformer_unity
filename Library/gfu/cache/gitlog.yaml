@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-09T16:18:07.451+03:00
+  lastUpdatedAtString: 2021-05-09T16:59:50.928+03:00
   initializedAtString: 2021-05-09T16:09:09.522+03:00
   log:
+  - commitID: 9020bc2af7b178368371d853d927b3865b5592a1
+    mergeA: 
+    mergeB: 
+    authorName: sapelkinAV
+    authorEmail: al.vi.sapelkin@gmail.com
+    commitEmail: al.vi.sapelkin@gmail.com
+    commitName: sapelkinAV
+    summary: test
+    description: 
+    timeString: 2021-05-09T16:19:18.000+03:00
+    commitTimeString: 2021-05-09T16:19:18.000+03:00
+    changes:
+    - path: Library/ArtifactDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      projectPath: Library/Collab/CollabSnapshot_12e9cbda-d6ed-4434-ba59-50d3c70aed4a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/Assembly-CSharp.dll.hash
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Assembly-CSharp.dll.hash
+      projectPath: Temp/Assembly-CSharp.dll.hash
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp/CompilationLog.txt
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a766be01c38814467645f86db9e4fa8e83b0aa9a
     mergeA: 
     mergeB: 

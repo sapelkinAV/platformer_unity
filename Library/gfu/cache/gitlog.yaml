@@ -13,9 +13,147 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-09T21:44:38.725+03:00
+  lastUpdatedAtString: 2021-05-09T23:47:15.531+03:00
   initializedAtString: 2021-05-09T16:09:09.522+03:00
   log:
+  - commitID: a7e47328219a6b4afe8813e82a7c2952dabf7cec
+    mergeA: 
+    mergeB: 
+    authorName: sapelkinAV
+    authorEmail: al.vi.sapelkin@gmail.com
+    commitEmail: al.vi.sapelkin@gmail.com
+    commitName: sapelkinAV
+    summary: Fly
+    description: 
+    timeString: 2021-05-09T21:50:46.000+03:00
+    commitTimeString: 2021-05-09T21:50:46.000+03:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/Fly.cs
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Fly.cs
+      projectPath: Assets/Scripts/Fly.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Fly.cs.meta
+      fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Fly.cs.meta
+      projectPath: Assets/Scripts/Fly.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ProtocolInstance.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ProtocolInstance.json
+      projectPath: Library/ProtocolInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SceneVisibilityState.asset
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      projectPath: Library/StateCache/MainStageHierarchy/85/851b33cad11efebab3cf2c6ebd993eb5.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      projectPath: Library/StateCache/SceneView/e8/e853336b6374f66b5ad26a50f2454f65.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/sapelkinav/code/games/Platformer/Logs/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/CompilationLog.txt
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/CompilationLog.txt
+      projectPath: Temp/CompilationLog.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/sapelkinav/code/games/Platformer/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/sapelkinav/code/games/Platformer/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ee0a88ac7e392cd5e67e7c7fe7024e708d609b47
     mergeA: 
     mergeB: 

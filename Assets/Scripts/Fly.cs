@@ -29,5 +29,6 @@ namespace DefaultNamespace
                 _direction *= -1;
             }
         }
+
     }
 }

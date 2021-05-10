@@ -6,8 +6,14 @@ public class Player : MonoBehaviour
 {
     [SerializeField] float speed = 1f;
     [SerializeField] float jumpForce = 400f;
-    
+    private Vector2 _startingPosition;
 
+
+    private void Start()
+    {
+        _startingPosition = transform.position;
+    }
+    
     // Update is called once per frame
     void Update()
     {
@@ -30,10 +36,14 @@ public class Player : MonoBehaviour
             spriteRenderer.flipX = horizontal < 0; 
         }
 
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Jump"))
         {
             rigidBody2D.AddForce(Vector2.up * jumpForce);
-            
         }
+    }
+
+    internal void ResetToStart()
+    {
+        transform.position = _startingPosition;
     }
 }

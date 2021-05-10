@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-09T21:44:38.417+03:00
-  initializedAtString: 2021-05-09T16:08:53.140+03:00
+  lastUpdatedAtString: 2021-05-10T16:36:05.940+03:00
+  initializedAtString: 2021-05-10T12:03:52.988+03:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: /Users/sapelkinav/code/games/Platformer/Assembly-CSharp.csproj
@@ -134,17 +134,89 @@ MonoBehaviour:
     fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Fly.cs
     projectPath: Assets/Scripts/Fly.cs
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/Fly.cs.meta
-    fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Fly.cs.meta
-    projectPath: Assets/Scripts/Fly.cs.meta
+  - path: Assets/Scripts/KillOnEnter.cs
+    fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/KillOnEnter.cs
+    projectPath: Assets/Scripts/KillOnEnter.cs
     originalPath: 
     indexStatus: 4
     workTreeStatus: 0
+  - path: Assets/Scripts/KillOnEnter.cs.meta
+    fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/KillOnEnter.cs.meta
+    projectPath: Assets/Scripts/KillOnEnter.cs.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets/Scripts/Player.cs
+    fullPath: /Users/sapelkinav/code/games/Platformer/Assets/Scripts/Player.cs
+    projectPath: Assets/Scripts/Player.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/sapelkinav/code/games/Platformer/Library/ArtifactDB
     projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    projectPath: Library/Artifacts/52/5212b25cb0d9146ee4812de7f584020c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/72/72fe9b20a4a74590f4c7706ec3217afc
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/72/72fe9b20a4a74590f4c7706ec3217afc
+    projectPath: Library/Artifacts/72/72fe9b20a4a74590f4c7706ec3217afc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7d/7d88e9d666258c8dc7af0f0131530a9d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/7d/7d88e9d666258c8dc7af0f0131530a9d
+    projectPath: Library/Artifacts/7d/7d88e9d666258c8dc7af0f0131530a9d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/99/99babc7c1d78d7e11e21a986d44a0aed
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/99/99babc7c1d78d7e11e21a986d44a0aed
+    projectPath: Library/Artifacts/99/99babc7c1d78d7e11e21a986d44a0aed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c2/c28ee665a88ae14a924870289dfeb47d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/c2/c28ee665a88ae14a924870289dfeb47d
+    projectPath: Library/Artifacts/c2/c28ee665a88ae14a924870289dfeb47d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c2/c293f17ca185e2278affc68b0bcfa61a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/c2/c293f17ca185e2278affc68b0bcfa61a
+    projectPath: Library/Artifacts/c2/c293f17ca185e2278affc68b0bcfa61a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    projectPath: Library/Artifacts/f0/f0c60340e445049b8dcc38b3992f3156
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Collab/Cache/Window.yml
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/Collab/Cache/Window.yml
+    projectPath: Library/Collab/Cache/Window.yml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorOnlyScriptingSettings.json
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/EditorOnlyScriptingSettings.json
+    projectPath: Library/EditorOnlyScriptingSettings.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -172,6 +244,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ProtocolInstance.json
     fullPath: /Users/sapelkinav/code/games/Platformer/Library/ProtocolInstance.json
     projectPath: Library/ProtocolInstance.json
@@ -196,9 +280,393 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/PsdPlugin.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/PsdPlugin.dll
+    projectPath: Library/ScriptAssemblies/PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/PsdPlugin.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/PsdPlugin.pdb
+    projectPath: Library/ScriptAssemblies/PsdPlugin.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.IK.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.IK.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.IK.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Mathematics.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.Timeline.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEditor.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Library/ScriptAssemblies/UnityEngine.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -220,12 +688,30 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/sapelkinav/code/games/Platformer/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs/shadercompiler-UnityShaderCompiler0.log
     fullPath: /Users/sapelkinav/code/games/Platformer/Logs/shadercompiler-UnityShaderCompiler0.log
     projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/sapelkinav/code/games/Platformer/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/sapelkinav/code/games/Platformer/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: /Users/sapelkinav/code/games/Platformer/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
@@ -238,9 +724,1227 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp/CompilationLog.txt
     fullPath: /Users/sapelkinav/code/games/Platformer/Temp/CompilationLog.txt
     projectPath: Temp/CompilationLog.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp/PsdPlugin.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/PsdPlugin.dll.hash
+    projectPath: Temp/PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Animation.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Animation.Runtime.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Common.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Common.Runtime.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.IK.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.IK.Runtime.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Path.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.PixelPerfect.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Sprite.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Mathematics.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Mathematics.dll.hash
+    projectPath: Temp/Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Mathematics.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-00fe1b0bf475543e2abbbb27a41c9e30
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-00fe1b0bf475543e2abbbb27a41c9e30
+    projectPath: Temp/UnityTempFile-00fe1b0bf475543e2abbbb27a41c9e30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-03c15da78920e48399fddab4535cad4e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-03c15da78920e48399fddab4535cad4e
+    projectPath: Temp/UnityTempFile-03c15da78920e48399fddab4535cad4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-04c92c7caae2d4274888afb9b6270a7c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-04c92c7caae2d4274888afb9b6270a7c
+    projectPath: Temp/UnityTempFile-04c92c7caae2d4274888afb9b6270a7c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-05b886dd1190849439305b43c8a64883
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-05b886dd1190849439305b43c8a64883
+    projectPath: Temp/UnityTempFile-05b886dd1190849439305b43c8a64883
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-06ec1bd81ceec4d63a223995c7b3ba34
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-06ec1bd81ceec4d63a223995c7b3ba34
+    projectPath: Temp/UnityTempFile-06ec1bd81ceec4d63a223995c7b3ba34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-08c0533e07f0a42bf9e866ff2942b4f8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-08c0533e07f0a42bf9e866ff2942b4f8
+    projectPath: Temp/UnityTempFile-08c0533e07f0a42bf9e866ff2942b4f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0bbc948e552234a5dba5d42bfc3ba9cb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-0bbc948e552234a5dba5d42bfc3ba9cb
+    projectPath: Temp/UnityTempFile-0bbc948e552234a5dba5d42bfc3ba9cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0c95603e759b64faea7d0da8c26f132c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-0c95603e759b64faea7d0da8c26f132c
+    projectPath: Temp/UnityTempFile-0c95603e759b64faea7d0da8c26f132c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0cd6a16a725d048879d20067bb543bd8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-0cd6a16a725d048879d20067bb543bd8
+    projectPath: Temp/UnityTempFile-0cd6a16a725d048879d20067bb543bd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-100c528fe6ef14410baac22977666d6d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-100c528fe6ef14410baac22977666d6d
+    projectPath: Temp/UnityTempFile-100c528fe6ef14410baac22977666d6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-11a1b0733d4f0457aaf73a9024dc2e93
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-11a1b0733d4f0457aaf73a9024dc2e93
+    projectPath: Temp/UnityTempFile-11a1b0733d4f0457aaf73a9024dc2e93
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-11bd2c9594e1c4cf7af3e61751901a34
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-11bd2c9594e1c4cf7af3e61751901a34
+    projectPath: Temp/UnityTempFile-11bd2c9594e1c4cf7af3e61751901a34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-150d6b4ae8cda4694b51120ca27c8c71
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-150d6b4ae8cda4694b51120ca27c8c71
+    projectPath: Temp/UnityTempFile-150d6b4ae8cda4694b51120ca27c8c71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-16ee2533fb5a64595b5b92a24ebd8ba7
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-16ee2533fb5a64595b5b92a24ebd8ba7
+    projectPath: Temp/UnityTempFile-16ee2533fb5a64595b5b92a24ebd8ba7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-18fb878b020e74cfbbcc1fb33ffa4468
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-18fb878b020e74cfbbcc1fb33ffa4468
+    projectPath: Temp/UnityTempFile-18fb878b020e74cfbbcc1fb33ffa4468
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-19dc83b977a194b2ba6ba0cedf2094e4
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-19dc83b977a194b2ba6ba0cedf2094e4
+    projectPath: Temp/UnityTempFile-19dc83b977a194b2ba6ba0cedf2094e4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1a6806ba34d9c4262b63c6ccf9b74147
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1a6806ba34d9c4262b63c6ccf9b74147
+    projectPath: Temp/UnityTempFile-1a6806ba34d9c4262b63c6ccf9b74147
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1b78f0474b9694fb79c6aa597a0527ac
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1b78f0474b9694fb79c6aa597a0527ac
+    projectPath: Temp/UnityTempFile-1b78f0474b9694fb79c6aa597a0527ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1c02280816d894f478de0b41dccb9441
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1c02280816d894f478de0b41dccb9441
+    projectPath: Temp/UnityTempFile-1c02280816d894f478de0b41dccb9441
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1c4cf859cfdbc464195887c414ed5ac8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1c4cf859cfdbc464195887c414ed5ac8
+    projectPath: Temp/UnityTempFile-1c4cf859cfdbc464195887c414ed5ac8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1f27a028a4409448da59f139f5cce1cb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1f27a028a4409448da59f139f5cce1cb
+    projectPath: Temp/UnityTempFile-1f27a028a4409448da59f139f5cce1cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1f4b31b8fdacf48c8ae511efce034c96
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-1f4b31b8fdacf48c8ae511efce034c96
+    projectPath: Temp/UnityTempFile-1f4b31b8fdacf48c8ae511efce034c96
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-21e70c8f17db94da2975b72201fed485
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-21e70c8f17db94da2975b72201fed485
+    projectPath: Temp/UnityTempFile-21e70c8f17db94da2975b72201fed485
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-22c4273e0bb774118bb7db2458c92b40
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-22c4273e0bb774118bb7db2458c92b40
+    projectPath: Temp/UnityTempFile-22c4273e0bb774118bb7db2458c92b40
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-234bb791baa1d480f9b8edf26554e854
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-234bb791baa1d480f9b8edf26554e854
+    projectPath: Temp/UnityTempFile-234bb791baa1d480f9b8edf26554e854
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-23591da1549544082bc61eb6b20985dc
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-23591da1549544082bc61eb6b20985dc
+    projectPath: Temp/UnityTempFile-23591da1549544082bc61eb6b20985dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-23a22924dd0e2447c8196bdaafec08fd
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-23a22924dd0e2447c8196bdaafec08fd
+    projectPath: Temp/UnityTempFile-23a22924dd0e2447c8196bdaafec08fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-261e7a3c353964a74a76df7ce8d04c06
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-261e7a3c353964a74a76df7ce8d04c06
+    projectPath: Temp/UnityTempFile-261e7a3c353964a74a76df7ce8d04c06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-266546aec495f4cee80622ebb704fe65
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-266546aec495f4cee80622ebb704fe65
+    projectPath: Temp/UnityTempFile-266546aec495f4cee80622ebb704fe65
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-275d8d85b79e14a63a324de6e6ccb18a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-275d8d85b79e14a63a324de6e6ccb18a
+    projectPath: Temp/UnityTempFile-275d8d85b79e14a63a324de6e6ccb18a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-28a56a109b7914ecba779e9fdab132a6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-28a56a109b7914ecba779e9fdab132a6
+    projectPath: Temp/UnityTempFile-28a56a109b7914ecba779e9fdab132a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-28a8cd6a43d434663b2b1aca7bcc810c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-28a8cd6a43d434663b2b1aca7bcc810c
+    projectPath: Temp/UnityTempFile-28a8cd6a43d434663b2b1aca7bcc810c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-296f0995b58844960a91592b2340e3ba
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-296f0995b58844960a91592b2340e3ba
+    projectPath: Temp/UnityTempFile-296f0995b58844960a91592b2340e3ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2a73f6a6fc7564b68a373d2c5e9575a6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-2a73f6a6fc7564b68a373d2c5e9575a6
+    projectPath: Temp/UnityTempFile-2a73f6a6fc7564b68a373d2c5e9575a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2be9db8902df14dce882a7bc8dda2965
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-2be9db8902df14dce882a7bc8dda2965
+    projectPath: Temp/UnityTempFile-2be9db8902df14dce882a7bc8dda2965
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3097a39a1ce974821bbe3ba4652e087d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3097a39a1ce974821bbe3ba4652e087d
+    projectPath: Temp/UnityTempFile-3097a39a1ce974821bbe3ba4652e087d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3359cb64834334974af8081361772f88
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3359cb64834334974af8081361772f88
+    projectPath: Temp/UnityTempFile-3359cb64834334974af8081361772f88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3471f7ad99328440b9fb712416252d6a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3471f7ad99328440b9fb712416252d6a
+    projectPath: Temp/UnityTempFile-3471f7ad99328440b9fb712416252d6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-35cc01dcb931542e5b663332c8f382e5
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-35cc01dcb931542e5b663332c8f382e5
+    projectPath: Temp/UnityTempFile-35cc01dcb931542e5b663332c8f382e5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3679c02cdfdbc45ab9bbe890cd0a37a1
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3679c02cdfdbc45ab9bbe890cd0a37a1
+    projectPath: Temp/UnityTempFile-3679c02cdfdbc45ab9bbe890cd0a37a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-36edb68428c71409e863e0fc45c8db58
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-36edb68428c71409e863e0fc45c8db58
+    projectPath: Temp/UnityTempFile-36edb68428c71409e863e0fc45c8db58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-38285152e259f4686ab4b5b4ccd11427
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-38285152e259f4686ab4b5b4ccd11427
+    projectPath: Temp/UnityTempFile-38285152e259f4686ab4b5b4ccd11427
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-39aa2d2b6b3eb4bfe94383e8436d59b4
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-39aa2d2b6b3eb4bfe94383e8436d59b4
+    projectPath: Temp/UnityTempFile-39aa2d2b6b3eb4bfe94383e8436d59b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3ae54b32e2c474c51b6c8830f5f45fb6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3ae54b32e2c474c51b6c8830f5f45fb6
+    projectPath: Temp/UnityTempFile-3ae54b32e2c474c51b6c8830f5f45fb6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3de3a74a24f134993895149fc0f34e3d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3de3a74a24f134993895149fc0f34e3d
+    projectPath: Temp/UnityTempFile-3de3a74a24f134993895149fc0f34e3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3dfe474613ab44f7b919973d4069dbfe
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-3dfe474613ab44f7b919973d4069dbfe
+    projectPath: Temp/UnityTempFile-3dfe474613ab44f7b919973d4069dbfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-40b096c818a83470a9209d7b27710f46
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-40b096c818a83470a9209d7b27710f46
+    projectPath: Temp/UnityTempFile-40b096c818a83470a9209d7b27710f46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-449170439bb8e45ecbebb9eb8671bd75
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-449170439bb8e45ecbebb9eb8671bd75
+    projectPath: Temp/UnityTempFile-449170439bb8e45ecbebb9eb8671bd75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-44978864f9ea246038e4c483775cca0d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-44978864f9ea246038e4c483775cca0d
+    projectPath: Temp/UnityTempFile-44978864f9ea246038e4c483775cca0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-44ba9e714c0d548459f09a14d825f6cd
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-44ba9e714c0d548459f09a14d825f6cd
+    projectPath: Temp/UnityTempFile-44ba9e714c0d548459f09a14d825f6cd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-44c272a8366c3408899008575aeb07a8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-44c272a8366c3408899008575aeb07a8
+    projectPath: Temp/UnityTempFile-44c272a8366c3408899008575aeb07a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-48f1ea9549fca4260a10c97cb3ac3ffc
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-48f1ea9549fca4260a10c97cb3ac3ffc
+    projectPath: Temp/UnityTempFile-48f1ea9549fca4260a10c97cb3ac3ffc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4a453a045b6ba479d8f2ca372ca433c3
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-4a453a045b6ba479d8f2ca372ca433c3
+    projectPath: Temp/UnityTempFile-4a453a045b6ba479d8f2ca372ca433c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4af96643ada82491ba23b2f2ce2ffee0
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-4af96643ada82491ba23b2f2ce2ffee0
+    projectPath: Temp/UnityTempFile-4af96643ada82491ba23b2f2ce2ffee0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4c4d042c727ef434e831b1023bc3b23a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-4c4d042c727ef434e831b1023bc3b23a
+    projectPath: Temp/UnityTempFile-4c4d042c727ef434e831b1023bc3b23a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4d2e7de4a30504b1aaf546221d897fa9
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-4d2e7de4a30504b1aaf546221d897fa9
+    projectPath: Temp/UnityTempFile-4d2e7de4a30504b1aaf546221d897fa9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4d595bd36fba34af8ba4c727e2ec8801
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-4d595bd36fba34af8ba4c727e2ec8801
+    projectPath: Temp/UnityTempFile-4d595bd36fba34af8ba4c727e2ec8801
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5220ba1668a9547fba2c6d5aca4d57f4
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-5220ba1668a9547fba2c6d5aca4d57f4
+    projectPath: Temp/UnityTempFile-5220ba1668a9547fba2c6d5aca4d57f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-528741abb1b694b048193ad8378f795b
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-528741abb1b694b048193ad8378f795b
+    projectPath: Temp/UnityTempFile-528741abb1b694b048193ad8378f795b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-586874a638f7d4ee3972d0c83871c9d5
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-586874a638f7d4ee3972d0c83871c9d5
+    projectPath: Temp/UnityTempFile-586874a638f7d4ee3972d0c83871c9d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5b24b61720c7b43a5ab7dbf86344524c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-5b24b61720c7b43a5ab7dbf86344524c
+    projectPath: Temp/UnityTempFile-5b24b61720c7b43a5ab7dbf86344524c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5c1bfb58d244f4f1c9eb787071852662
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-5c1bfb58d244f4f1c9eb787071852662
+    projectPath: Temp/UnityTempFile-5c1bfb58d244f4f1c9eb787071852662
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5ea83c428d8f44312b42fc7ae1bd27e1
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-5ea83c428d8f44312b42fc7ae1bd27e1
+    projectPath: Temp/UnityTempFile-5ea83c428d8f44312b42fc7ae1bd27e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5facdf4c5ba164aeca7f542aeaa378d1
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-5facdf4c5ba164aeca7f542aeaa378d1
+    projectPath: Temp/UnityTempFile-5facdf4c5ba164aeca7f542aeaa378d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-606c2c4f7110c4065ab582db40e92199
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-606c2c4f7110c4065ab582db40e92199
+    projectPath: Temp/UnityTempFile-606c2c4f7110c4065ab582db40e92199
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-62135ddcc524343a9aeaaecbf73a39df
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-62135ddcc524343a9aeaaecbf73a39df
+    projectPath: Temp/UnityTempFile-62135ddcc524343a9aeaaecbf73a39df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-623995a50caba4f0b9a7ff6460d88acf
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-623995a50caba4f0b9a7ff6460d88acf
+    projectPath: Temp/UnityTempFile-623995a50caba4f0b9a7ff6460d88acf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6408fc17a73554bec8e64bbef6626f0d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-6408fc17a73554bec8e64bbef6626f0d
+    projectPath: Temp/UnityTempFile-6408fc17a73554bec8e64bbef6626f0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6526a77db48bf4f93aa9fd49613d6a90
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-6526a77db48bf4f93aa9fd49613d6a90
+    projectPath: Temp/UnityTempFile-6526a77db48bf4f93aa9fd49613d6a90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-670bcd2cad345469894bc8f63db1235e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-670bcd2cad345469894bc8f63db1235e
+    projectPath: Temp/UnityTempFile-670bcd2cad345469894bc8f63db1235e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-683e145147d334d919ce7923e5149c3c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-683e145147d334d919ce7923e5149c3c
+    projectPath: Temp/UnityTempFile-683e145147d334d919ce7923e5149c3c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-693d2ddad1bb44ddfaa0d7ac5c06b703
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-693d2ddad1bb44ddfaa0d7ac5c06b703
+    projectPath: Temp/UnityTempFile-693d2ddad1bb44ddfaa0d7ac5c06b703
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6a5b875800db94996811699ba1e328db
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-6a5b875800db94996811699ba1e328db
+    projectPath: Temp/UnityTempFile-6a5b875800db94996811699ba1e328db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6a92e260dc2ec401b86c2ba7026617be
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-6a92e260dc2ec401b86c2ba7026617be
+    projectPath: Temp/UnityTempFile-6a92e260dc2ec401b86c2ba7026617be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6aa431497d3994ab0af2eb0430d24091
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-6aa431497d3994ab0af2eb0430d24091
+    projectPath: Temp/UnityTempFile-6aa431497d3994ab0af2eb0430d24091
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-721ad138fa50d48e5a8026c6379789cc
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-721ad138fa50d48e5a8026c6379789cc
+    projectPath: Temp/UnityTempFile-721ad138fa50d48e5a8026c6379789cc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-72426c10aa85d4d709455e3cb89d5e3f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-72426c10aa85d4d709455e3cb89d5e3f
+    projectPath: Temp/UnityTempFile-72426c10aa85d4d709455e3cb89d5e3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-72c18b867328f49d7b0d1f999026a2ec
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-72c18b867328f49d7b0d1f999026a2ec
+    projectPath: Temp/UnityTempFile-72c18b867328f49d7b0d1f999026a2ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-73e94d33695c64457a57d2df98044eeb
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-73e94d33695c64457a57d2df98044eeb
+    projectPath: Temp/UnityTempFile-73e94d33695c64457a57d2df98044eeb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7490690a19d904b4f8a2c296a4bd6c9f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-7490690a19d904b4f8a2c296a4bd6c9f
+    projectPath: Temp/UnityTempFile-7490690a19d904b4f8a2c296a4bd6c9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-75e7e0073f3684219a17639994855f06
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-75e7e0073f3684219a17639994855f06
+    projectPath: Temp/UnityTempFile-75e7e0073f3684219a17639994855f06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-764ac350c174f4d44b9ca59fcb1704ca
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-764ac350c174f4d44b9ca59fcb1704ca
+    projectPath: Temp/UnityTempFile-764ac350c174f4d44b9ca59fcb1704ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-76d6e2660b60248f8b01b662110fba54
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-76d6e2660b60248f8b01b662110fba54
+    projectPath: Temp/UnityTempFile-76d6e2660b60248f8b01b662110fba54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-787d95e3ac5904ccd87cd6ad69abfaa8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-787d95e3ac5904ccd87cd6ad69abfaa8
+    projectPath: Temp/UnityTempFile-787d95e3ac5904ccd87cd6ad69abfaa8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7a0b2de9f8d1d42408f426687aee1a3f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-7a0b2de9f8d1d42408f426687aee1a3f
+    projectPath: Temp/UnityTempFile-7a0b2de9f8d1d42408f426687aee1a3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7da320481d0e14019be3365c02cf8a2e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-7da320481d0e14019be3365c02cf8a2e
+    projectPath: Temp/UnityTempFile-7da320481d0e14019be3365c02cf8a2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-80a162488941b4f0a9178e3ab78200ad
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-80a162488941b4f0a9178e3ab78200ad
+    projectPath: Temp/UnityTempFile-80a162488941b4f0a9178e3ab78200ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8320e2c14cd144866b1a58a44a75ef82
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8320e2c14cd144866b1a58a44a75ef82
+    projectPath: Temp/UnityTempFile-8320e2c14cd144866b1a58a44a75ef82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-83c52350f9a694a42bcd3c3fab79b41f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-83c52350f9a694a42bcd3c3fab79b41f
+    projectPath: Temp/UnityTempFile-83c52350f9a694a42bcd3c3fab79b41f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8451bc6cbc8a64bb9bd5ebfee0589370
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8451bc6cbc8a64bb9bd5ebfee0589370
+    projectPath: Temp/UnityTempFile-8451bc6cbc8a64bb9bd5ebfee0589370
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-848c978c529364bee9284a2c7d8668c1
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-848c978c529364bee9284a2c7d8668c1
+    projectPath: Temp/UnityTempFile-848c978c529364bee9284a2c7d8668c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-86c2e2426863c44829fcc15c16232bc4
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-86c2e2426863c44829fcc15c16232bc4
+    projectPath: Temp/UnityTempFile-86c2e2426863c44829fcc15c16232bc4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-880294f2c5c4a42ab84ed85490285fcd
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-880294f2c5c4a42ab84ed85490285fcd
+    projectPath: Temp/UnityTempFile-880294f2c5c4a42ab84ed85490285fcd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8a738e73857764a1383c1d5f29795be3
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8a738e73857764a1383c1d5f29795be3
+    projectPath: Temp/UnityTempFile-8a738e73857764a1383c1d5f29795be3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8adfb325ca57e4360862ebda397715f9
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8adfb325ca57e4360862ebda397715f9
+    projectPath: Temp/UnityTempFile-8adfb325ca57e4360862ebda397715f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8be0846758aa64c2bb4ef41d4541bba0
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8be0846758aa64c2bb4ef41d4541bba0
+    projectPath: Temp/UnityTempFile-8be0846758aa64c2bb4ef41d4541bba0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8d84c76e36dca45a382fb947914e56ff
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8d84c76e36dca45a382fb947914e56ff
+    projectPath: Temp/UnityTempFile-8d84c76e36dca45a382fb947914e56ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8e28a02b814294a89acc0e711fb9be6f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8e28a02b814294a89acc0e711fb9be6f
+    projectPath: Temp/UnityTempFile-8e28a02b814294a89acc0e711fb9be6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8f7b298ff9054479099be6590b5b278d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-8f7b298ff9054479099be6590b5b278d
+    projectPath: Temp/UnityTempFile-8f7b298ff9054479099be6590b5b278d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-92fdd6c4316cb4fbbaa7d48997eb2a5e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-92fdd6c4316cb4fbbaa7d48997eb2a5e
+    projectPath: Temp/UnityTempFile-92fdd6c4316cb4fbbaa7d48997eb2a5e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9391ac35f51ba44b2a9b501e22f78b4a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9391ac35f51ba44b2a9b501e22f78b4a
+    projectPath: Temp/UnityTempFile-9391ac35f51ba44b2a9b501e22f78b4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-943ffffb6c6a14ae4a28e51c0234282d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-943ffffb6c6a14ae4a28e51c0234282d
+    projectPath: Temp/UnityTempFile-943ffffb6c6a14ae4a28e51c0234282d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-94773df1d05d74572a4dae8f25f9db41
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-94773df1d05d74572a4dae8f25f9db41
+    projectPath: Temp/UnityTempFile-94773df1d05d74572a4dae8f25f9db41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-95e5f05778d64427fa3ab071c7275486
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-95e5f05778d64427fa3ab071c7275486
+    projectPath: Temp/UnityTempFile-95e5f05778d64427fa3ab071c7275486
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-96145041177d245b6b51cf15d9361b69
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-96145041177d245b6b51cf15d9361b69
+    projectPath: Temp/UnityTempFile-96145041177d245b6b51cf15d9361b69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-973557ffc4a4949999986d423e528967
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-973557ffc4a4949999986d423e528967
+    projectPath: Temp/UnityTempFile-973557ffc4a4949999986d423e528967
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-980dab69af134473cb91f2ca6d7de75d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-980dab69af134473cb91f2ca6d7de75d
+    projectPath: Temp/UnityTempFile-980dab69af134473cb91f2ca6d7de75d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-995b0473f604d4bb38058d2718049080
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-995b0473f604d4bb38058d2718049080
+    projectPath: Temp/UnityTempFile-995b0473f604d4bb38058d2718049080
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9998da5050f294a4c96dc2c33c288a5d
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9998da5050f294a4c96dc2c33c288a5d
+    projectPath: Temp/UnityTempFile-9998da5050f294a4c96dc2c33c288a5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9a79a3534e6294aaab2d979dadc2b59f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9a79a3534e6294aaab2d979dadc2b59f
+    projectPath: Temp/UnityTempFile-9a79a3534e6294aaab2d979dadc2b59f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9ae65730451ee40daa236f8e2347ffd3
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9ae65730451ee40daa236f8e2347ffd3
+    projectPath: Temp/UnityTempFile-9ae65730451ee40daa236f8e2347ffd3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9bb59a358ec6049918287001c5333879
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9bb59a358ec6049918287001c5333879
+    projectPath: Temp/UnityTempFile-9bb59a358ec6049918287001c5333879
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9d787234308e544cf98f00f17f7e1507
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-9d787234308e544cf98f00f17f7e1507
+    projectPath: Temp/UnityTempFile-9d787234308e544cf98f00f17f7e1507
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a493a8f6abb234a02a2274b8da29372a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a493a8f6abb234a02a2274b8da29372a
+    projectPath: Temp/UnityTempFile-a493a8f6abb234a02a2274b8da29372a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a4dcee1872c2d41ce96b03181aec469a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a4dcee1872c2d41ce96b03181aec469a
+    projectPath: Temp/UnityTempFile-a4dcee1872c2d41ce96b03181aec469a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a5fac68024c0945f18a27ef304940340
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a5fac68024c0945f18a27ef304940340
+    projectPath: Temp/UnityTempFile-a5fac68024c0945f18a27ef304940340
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a688d63945a9445ecb934453f4ac76ca
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a688d63945a9445ecb934453f4ac76ca
+    projectPath: Temp/UnityTempFile-a688d63945a9445ecb934453f4ac76ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a84137d8392434cc6b705b7a0294af5e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a84137d8392434cc6b705b7a0294af5e
+    projectPath: Temp/UnityTempFile-a84137d8392434cc6b705b7a0294af5e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a87dece36ce1c4b7b8648976becf69cf
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-a87dece36ce1c4b7b8648976becf69cf
+    projectPath: Temp/UnityTempFile-a87dece36ce1c4b7b8648976becf69cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-aa5e2ed56a4b24c7795d718c633b80d0
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-aa5e2ed56a4b24c7795d718c633b80d0
+    projectPath: Temp/UnityTempFile-aa5e2ed56a4b24c7795d718c633b80d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-aae10e7fcc8a748869abd702f8579d1e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-aae10e7fcc8a748869abd702f8579d1e
+    projectPath: Temp/UnityTempFile-aae10e7fcc8a748869abd702f8579d1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ab8cd80a3d10649a3a5faad0ff3b97d8
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ab8cd80a3d10649a3a5faad0ff3b97d8
+    projectPath: Temp/UnityTempFile-ab8cd80a3d10649a3a5faad0ff3b97d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-af966853605ab42f6b186f54380788d2
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-af966853605ab42f6b186f54380788d2
+    projectPath: Temp/UnityTempFile-af966853605ab42f6b186f54380788d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b1d9cbc0e30bc41d9a749caecc0a9489
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-b1d9cbc0e30bc41d9a749caecc0a9489
+    projectPath: Temp/UnityTempFile-b1d9cbc0e30bc41d9a749caecc0a9489
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b6ef04a38c36943adb47bec47512f13f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-b6ef04a38c36943adb47bec47512f13f
+    projectPath: Temp/UnityTempFile-b6ef04a38c36943adb47bec47512f13f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b8f53327475ef42688569f978ae0e8fa
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-b8f53327475ef42688569f978ae0e8fa
+    projectPath: Temp/UnityTempFile-b8f53327475ef42688569f978ae0e8fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-baaae799fea884674ac48d5adc87033a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-baaae799fea884674ac48d5adc87033a
+    projectPath: Temp/UnityTempFile-baaae799fea884674ac48d5adc87033a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-bf71168bc64b040a8a7e977da3cf00bf
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-bf71168bc64b040a8a7e977da3cf00bf
+    projectPath: Temp/UnityTempFile-bf71168bc64b040a8a7e977da3cf00bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c006bcf5954aa4a94820df507b6250e9
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-c006bcf5954aa4a94820df507b6250e9
+    projectPath: Temp/UnityTempFile-c006bcf5954aa4a94820df507b6250e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c32317ac282b7402f92d63857e8ac4c6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-c32317ac282b7402f92d63857e8ac4c6
+    projectPath: Temp/UnityTempFile-c32317ac282b7402f92d63857e8ac4c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c6e1c465c88724ed09fcbcd588a8ccb6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-c6e1c465c88724ed09fcbcd588a8ccb6
+    projectPath: Temp/UnityTempFile-c6e1c465c88724ed09fcbcd588a8ccb6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c90c3b066a0d347ebb34cbffea7f313c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-c90c3b066a0d347ebb34cbffea7f313c
+    projectPath: Temp/UnityTempFile-c90c3b066a0d347ebb34cbffea7f313c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ca497e21bc53c42ab90c33f8c4629585
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ca497e21bc53c42ab90c33f8c4629585
+    projectPath: Temp/UnityTempFile-ca497e21bc53c42ab90c33f8c4629585
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cf5c1c85dd59841eca3aff9c74c40158
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-cf5c1c85dd59841eca3aff9c74c40158
+    projectPath: Temp/UnityTempFile-cf5c1c85dd59841eca3aff9c74c40158
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cf640d9c5cb16455d90ee3fcb5e7008c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-cf640d9c5cb16455d90ee3fcb5e7008c
+    projectPath: Temp/UnityTempFile-cf640d9c5cb16455d90ee3fcb5e7008c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d19ad3181df844fa987adbd620babf63
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d19ad3181df844fa987adbd620babf63
+    projectPath: Temp/UnityTempFile-d19ad3181df844fa987adbd620babf63
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d388018535da9448295eaef7da557306
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d388018535da9448295eaef7da557306
+    projectPath: Temp/UnityTempFile-d388018535da9448295eaef7da557306
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d47a960195eb84db29019ff148c63c9f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d47a960195eb84db29019ff148c63c9f
+    projectPath: Temp/UnityTempFile-d47a960195eb84db29019ff148c63c9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d67ebac0161514dfe9ca78ba53a03b69
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d67ebac0161514dfe9ca78ba53a03b69
+    projectPath: Temp/UnityTempFile-d67ebac0161514dfe9ca78ba53a03b69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d9267b7147ed446fa8e42be21127781c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d9267b7147ed446fa8e42be21127781c
+    projectPath: Temp/UnityTempFile-d9267b7147ed446fa8e42be21127781c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d98071b6bbd2e4457b8819c497f48214
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-d98071b6bbd2e4457b8819c497f48214
+    projectPath: Temp/UnityTempFile-d98071b6bbd2e4457b8819c497f48214
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-daea238b0b4344143b553d8cc32e5320
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-daea238b0b4344143b553d8cc32e5320
+    projectPath: Temp/UnityTempFile-daea238b0b4344143b553d8cc32e5320
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-db9c7691a40c14cc0b3e182f15b29d21
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-db9c7691a40c14cc0b3e182f15b29d21
+    projectPath: Temp/UnityTempFile-db9c7691a40c14cc0b3e182f15b29d21
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dbaea94d668c0491e8606cabd170663f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-dbaea94d668c0491e8606cabd170663f
+    projectPath: Temp/UnityTempFile-dbaea94d668c0491e8606cabd170663f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dceb7d46ee273475b9ad8e682b45f7a6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-dceb7d46ee273475b9ad8e682b45f7a6
+    projectPath: Temp/UnityTempFile-dceb7d46ee273475b9ad8e682b45f7a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-de174891e2cc744af836b785a7c08b82
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-de174891e2cc744af836b785a7c08b82
+    projectPath: Temp/UnityTempFile-de174891e2cc744af836b785a7c08b82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-df762152c57a74a119ab7114dc8a5e8c
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-df762152c57a74a119ab7114dc8a5e8c
+    projectPath: Temp/UnityTempFile-df762152c57a74a119ab7114dc8a5e8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e0f3125ca52524224a4d16e3538a4865
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-e0f3125ca52524224a4d16e3538a4865
+    projectPath: Temp/UnityTempFile-e0f3125ca52524224a4d16e3538a4865
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e303df7f9bce340f5899f4ec77bc045b
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-e303df7f9bce340f5899f4ec77bc045b
+    projectPath: Temp/UnityTempFile-e303df7f9bce340f5899f4ec77bc045b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e3206e61550cb4dd59c840a306457215
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-e3206e61550cb4dd59c840a306457215
+    projectPath: Temp/UnityTempFile-e3206e61550cb4dd59c840a306457215
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e47d4f8a5cd4546c5b5864987e5cd9d6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-e47d4f8a5cd4546c5b5864987e5cd9d6
+    projectPath: Temp/UnityTempFile-e47d4f8a5cd4546c5b5864987e5cd9d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e78ab01776ad2479b8366b701d5d8cd4
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-e78ab01776ad2479b8366b701d5d8cd4
+    projectPath: Temp/UnityTempFile-e78ab01776ad2479b8366b701d5d8cd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ed5ec4645beee425f9c0980193c5845e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ed5ec4645beee425f9c0980193c5845e
+    projectPath: Temp/UnityTempFile-ed5ec4645beee425f9c0980193c5845e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-edf2c17d5685343e6aeebe49aeeed59a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-edf2c17d5685343e6aeebe49aeeed59a
+    projectPath: Temp/UnityTempFile-edf2c17d5685343e6aeebe49aeeed59a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ee1cde17829614bacb2df656dadf0282
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ee1cde17829614bacb2df656dadf0282
+    projectPath: Temp/UnityTempFile-ee1cde17829614bacb2df656dadf0282
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ef50c4ef4c6934d4fbd1920fe02f081b
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ef50c4ef4c6934d4fbd1920fe02f081b
+    projectPath: Temp/UnityTempFile-ef50c4ef4c6934d4fbd1920fe02f081b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ef874e78b1b2140558d3eeea4d503f4f
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-ef874e78b1b2140558d3eeea4d503f4f
+    projectPath: Temp/UnityTempFile-ef874e78b1b2140558d3eeea4d503f4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f01afed3d1ca54a1bbabb7bac5706cf0
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f01afed3d1ca54a1bbabb7bac5706cf0
+    projectPath: Temp/UnityTempFile-f01afed3d1ca54a1bbabb7bac5706cf0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f0c9b4d1be882463a87bc3943460ecf1
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f0c9b4d1be882463a87bc3943460ecf1
+    projectPath: Temp/UnityTempFile-f0c9b4d1be882463a87bc3943460ecf1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f13345f0a93bd40b2ba69f5fff29cf26
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f13345f0a93bd40b2ba69f5fff29cf26
+    projectPath: Temp/UnityTempFile-f13345f0a93bd40b2ba69f5fff29cf26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f1ea4b69629904addbca24458479c038
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f1ea4b69629904addbca24458479c038
+    projectPath: Temp/UnityTempFile-f1ea4b69629904addbca24458479c038
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f2294a19ffff945b8b96a4c64548123a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f2294a19ffff945b8b96a4c64548123a
+    projectPath: Temp/UnityTempFile-f2294a19ffff945b8b96a4c64548123a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f3b791ca5b4064dbf80852e04259259e
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f3b791ca5b4064dbf80852e04259259e
+    projectPath: Temp/UnityTempFile-f3b791ca5b4064dbf80852e04259259e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f516b56bb3fd44da4b0be0c5ccb83e02
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f516b56bb3fd44da4b0be0c5ccb83e02
+    projectPath: Temp/UnityTempFile-f516b56bb3fd44da4b0be0c5ccb83e02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f59463638d0484cd3bf26f6120937e57
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f59463638d0484cd3bf26f6120937e57
+    projectPath: Temp/UnityTempFile-f59463638d0484cd3bf26f6120937e57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f655d409e6d454d00b3e170dda1079ee
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f655d409e6d454d00b3e170dda1079ee
+    projectPath: Temp/UnityTempFile-f655d409e6d454d00b3e170dda1079ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f820e40d3d54d4e1ab6bed066d651a6a
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f820e40d3d54d4e1ab6bed066d651a6a
+    projectPath: Temp/UnityTempFile-f820e40d3d54d4e1ab6bed066d651a6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f88a109cd808142e7b7d7815e7747e34
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-f88a109cd808142e7b7d7815e7747e34
+    projectPath: Temp/UnityTempFile-f88a109cd808142e7b7d7815e7747e34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-fab3cec4983a548c6bfc47de4081a4f6
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-fab3cec4983a548c6bfc47de4081a4f6
+    projectPath: Temp/UnityTempFile-fab3cec4983a548c6bfc47de4081a4f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-faefedd60626440cca0b750fce54de37
+    fullPath: /Users/sapelkinav/code/games/Platformer/Temp/UnityTempFile-faefedd60626440cca0b750fce54de37
+    projectPath: Temp/UnityTempFile-faefedd60626440cca0b750fce54de37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
